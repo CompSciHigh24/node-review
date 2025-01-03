@@ -90,7 +90,7 @@ let endangeredSpeciesData = {
 // - sends back "Explore data on endangered species, their habitats, threats, and conservation efforts." as an h2 when the client goes to /
 // - sends back the species array when the client goes to /species
 // - sends back the conservation_efforts object when the client goes to /conservation
-// - sends back the the "Amazon Rainforest" object when the client goes to /region/1
+// - sends back the the "Amazon Rainforest" region object when the client goes to /region/1
 // - EXTRA CREDIT: modify your region route handler to send any region using the dynamic parameter region/{index}
 // - sends back a 404 page for all other paths
 
